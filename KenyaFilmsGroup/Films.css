@@ -1,0 +1,26 @@
+
+.screenshot{
+  width: 100px;
+  height: 100px;
+
+}
+
+.search{
+  height: 25px;
+}
+
+body{
+  margin: 0;
+}
+
+.left{
+  flex: 1;;
+
+}
+
+.right{
+  flex: 1;
+}
+
+
+
